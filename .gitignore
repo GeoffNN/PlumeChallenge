@@ -2,3 +2,5 @@ data/
 *.pdf
 *.pyc
 .idea/
+
+.ipynb_checkpoints/first_try-checkpoint.ipynb
